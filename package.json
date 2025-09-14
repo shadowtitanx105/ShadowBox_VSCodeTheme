@@ -1,0 +1,21 @@
+{
+  "name": "gruvbox-dark",
+  "displayName": "ShadowBox",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ShadowBox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ShadowBox-color-theme.json"
+      }
+    ]
+  }
+}
